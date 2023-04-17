@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! :D
 
 <!--
 **YKawesome/YKawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m an incoming freshman at UCI majoring in Computer Science
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: theyousefkhan@gmail.com
+- ⚡ Fun fact: I love board games
