@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m an incoming freshman at UCI majoring in Computer Science
-- 🌱 I’m currently learning Java
+- 🔭 I’m a freshman at UCI majoring in Computer Science
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: theyousefkhan@gmail.com
 - ⚡ Fun fact: I love board games
+- 😄 Languages I use: Python, Java, C++
 
 <!--[![Github Stats](https://github-readme-stats.vercel.app/api?username=YKawesome&hide=prs,issues&count_private=true&show_icons=true&theme=dark&include_all_commits=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
