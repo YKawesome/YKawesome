@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 <!--[![Github Stats](https://github-readme-stats.vercel.app/api?username=YKawesome&hide=prs,issues&count_private=true&show_icons=true&theme=dark&include_all_commits=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKawesome&size_weight=0.85&count_weight=0.15&hide=Makefile,Jupyter+Notebook,Roff,HTML,C&card_width=500&theme=dark&&exclude_repo=2969X)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKawesome&size_weight=0.5&count_weight=0.5&hide=Makefile,Jupyter+Notebook,Roff,HTML,C&card_width=500&theme=dark&&exclude_repo=2969X)](https://github.com/anuraghazra/github-readme-stats)
 
