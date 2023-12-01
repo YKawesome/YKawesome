@@ -1,4 +1,4 @@
-### Hi! :D
+### hi :D
 
 <!--
 **YKawesome/YKawesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,18 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a freshman at UCI majoring in Computer Science
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: theyousefkhan@gmail.com
-- ⚡ Fun fact: I love board games
+- 🌱 I’m currently learning mor python
 - 😄 Languages I use: Python, Java, JS, C++
+- 💬 I'm currently working on Petrpedia and various discord bots
+- ❤️ I love board games, indie games, spreadsheeting, and making discord bots :)
+- 📫 How to reach me: theyousefkhan@gmail.com
 
-<!--[![Github Stats](https://github-readme-stats.vercel.app/api?username=YKawesome&hide=prs,issues&count_private=true&show_icons=true&theme=dark&include_all_commits=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKawesome&size_weight=0.5&count_weight=0.5&hide=Makefile,Jupyter+Notebook,Roff,HTML,C&card_width=500&theme=dark&&exclude_repo=2969X)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=YKawesome&hide=prs,issues&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=45,F47FFF,7289DA,5865F2&include_all_commits=false&card_width=500&custom_title=My+Github+Stats&rank_icon=github&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=YKawesome&hide=prs,issues&count_private=true&show_icons=true&theme=ambient_gradient&include_all_commits=false&card_width=500&custom_title=My+Github+Stats&rank_icon=github&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKawesome&size_weight=0.5&count_weight=0.5&hide=Makefile,Jupyter+Notebook,Roff,HTML,C&card_width=500&title_color=ffffff&text_color=ffffff&bg_color=45,F47FFF,7289DA,5865F2&exclude_repo=2969X&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
