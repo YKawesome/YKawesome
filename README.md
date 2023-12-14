@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a freshman at UCI majoring in Computer Science
-- 🌱 I’m currently learning mor python
+- 🌱 I’m currently learning more python
 - 😄 Languages I use: Python, Java, JS, C++
 - 💬 I'm currently working on Petrpedia and various discord bots
 - ❤️ I love board games, indie games, spreadsheeting, and making discord bots :)
