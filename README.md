@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a sophomore at UCI majoring in Computer Science
-- 🌱 I’m currently learning more python
+- 🌱 I’m currently learning Frontend Design with React.js + Tailwind + DaisyUI
 - 😄 Languages I use: Python, Java, JS, C++
 - 💬 I'm currently working on my [Portfolio](https://ykawesome.github.io/Portfolio/) and various discord bots
 - ❤️ I love board games, indie games, spreadsheeting, and making discord bots :)
