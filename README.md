@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 <!--
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=YKawesome&hide=prs,issues&count_private=true&show_icons=true&theme=ambient_gradient&include_all_commits=false&card_width=500&custom_title=My+Github+Stats&rank_icon=github&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKawesome&size_weight=0.5&count_weight=0.5&hide=Makefile,Jupyter+Notebook,Roff,HTML,C&card_width=500&title_color=ffffff&text_color=ffffff&bg_color=45,F47FFF,7289DA,5865F2&exclude_repo=2969X&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YKawesome&size_weight=0.5&count_weight=0.5&hide=Makefile,Jupyter+Notebook,Roff,HTML,C&card_width=500&title_color=ffffff&text_color=ffffff&bg_color=45,F47FFF,7289DA,5865F2&exclude_repo=2969X&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+-->
