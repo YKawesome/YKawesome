@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Languages I use: Python, Java, JS, C++
 - 💬 I'm currently working on my [Portfolio](https://ykawesome.github.io/Portfolio/) and various discord bots
 - ❤️ I love board games, indie games, spreadsheeting, and making discord bots :)
-- 📫 How to reach me: theyousefkhan@gmail.com
+- 📫 How to reach me: yousefk@uci.edu
 
 
 
