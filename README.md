@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a sophomore at UCI majoring in Computer Science
+- 🔭 I’m a junior at UCI majoring in Computer Science
 - 🌱 I’m currently learning Frontend Design with React + Vite + Tailwind + DaisyUI using GitHub Pages for Deployment
 - 😄 Languages I use: Python, Java, JS, C++, JS
 - 💬 I'm currently working on my [Portfolio](https://ykawesome.github.io/Portfolio/), the [SoCal MIST Website](https://www.theyousefkhan.com/SoCal-Mist-Website/#/sponsor), and my [Discord Bot](https://github.com/YKawesome/ICSYAK)
