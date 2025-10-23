@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a junior at UCI majoring in Computer Science
-- 🌱 I’m currently learning Frontend Design with React + Vite + Tailwind + DaisyUI using GitHub Pages for Deployment
+- 🌱 I’m currently learning Frontend Design with React + Next.js + Tailwind
 - 😄 Languages I use: Python, Java, JS, C++, JS
-- 💬 I'm currently working on my [Portfolio](https://ykawesome.github.io/Portfolio/), the [SoCal MIST Website](https://www.theyousefkhan.com/SoCal-Mist-Website/#/sponsor), and my [Discord Bot](https://github.com/YKawesome/ICSYAK)
+- 💬 I'm currently working on my [Portfolio](https://ykawesome.github.io/Portfolio/), the [IrvineHacks Website](https://irvinehacks.com/), and my [Discord Bot](https://github.com/YKawesome/ICSYAK)
 - ❤️ I love board games, indie games, spreadsheeting, and Discord :D
-- 📫 How to reach me: yousefk@uci.edu
+- 📫 How to reach me: theyousefkhan@gmail.com
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
