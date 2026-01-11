@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a junior at UCI majoring in Computer Science
-- 🌱 I’m currently learning Frontend Design with React + Next.js + Tailwind
-- 😄 Languages I use: Python, Java, JS, C++, JS
-- 💬 I'm currently working on my [Portfolio](https://ykawesome.github.io/Portfolio/), the [IrvineHacks Website](https://irvinehacks.com/), and my [Discord Bot](https://github.com/YKawesome/ICSYAK)
+- 🌱 I’m currently learning Fullstack Development with React/Next.js/Tailwind and Node.js/PostgreSQL
+- 😄 Languages I use: Python, Java, JS, C++, Go
+- 💬 I'm currently working on my [Portfolio](https://ykawesome.github.io/Portfolio/), the [IrvineHacks Website](https://irvinehacks.com/), the [ELDR Website (CTC)](https://github.com/ctc-uci/eldr), and my [Discord Bot](https://github.com/YKawesome/ICSYAK)
 - ❤️ I love board games, indie games, spreadsheeting, and Discord :D
 - 📫 How to reach me: theyousefkhan@gmail.com
 <div align="center">
