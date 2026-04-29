@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 😄 Languages I use: Python, Java, JS, C++, Go
 - 💬 I'm currently working on [grouper.design](https://www.grouper.design/), the [IrvineHacks Website](https://irvinehacks.com/), the [ELDR Website (CTC)](https://github.com/ctc-uci/eldr), and my [Discord Bot](https://github.com/YKawesome/ICSYAK)
 - ❤️ I love board games, indie games, spreadsheeting, and Discord :D
-- 📫 How to reach me: theyousefkhan@gmail.com
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
